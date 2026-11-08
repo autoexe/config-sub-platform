@@ -2,9 +2,9 @@ trojan://7e9facb8-b5e1-4a00-8295-2bf6e2e60a70@jp07.node.qixi.best:443?type=ws&pa
 trojan://7e9facb8-b5e1-4a00-8295-2bf6e2e60a70@de01.node.qixi.best:443?type=ws&path=%2Fdownload&host=de01.node.qixi.best&security=tls&sni=de01.node.qixi.best&fp=firefox#DE-01-%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96`
 vless://85550ebf-fd43-42dd-9801-bda528fea2fc@www.speedtest.net:443?path=%2F&security=tls&encryption=none&insecure=0&allowInsecure=0&host=wallweb5.pages.dev&fp=chrome&type=ws&sni=wallweb5.pages.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F64.6.65.6#%40WallWeb%20wallweb5`
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#🇭🇰```
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#canfingV2rayNG-289`
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#canfingV2rayNG-62`
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#canfingV2rayNG-40`
-vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#canfingV2rayNG-92`
 trojan://gHQP0D7D15@104.18.0.1:2053?type=ws&path=%252F&security=tls&sni=marvdasht.phonecomparisonblog.org&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%AEFI_32%7C1.3MB%2Fs%7CB007-260618%20%231`
 vless://eaf76557-2219-4799-8171-d7020adfefd0@104.18.151.231:443?encryption=none&host=cool-credit-6728.dobiy47415.workers.dev&path=%2Fws&security=tls&sni=cool-credit-6728.dobiy47415.workers.dev&type=ws#All%2011`
 vless://1beed393-7c4d-4432-beee-f1026b72d0cf@104.17.70.206:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=free.sahanwickramasinghe.com&fp=chrome&type=ws&allowInsecure=1&sni=free.sahanwickramasinghe.com#Mobitel%20Zoom-Sahan%20Wickramasinghe`
@@ -41,7 +41,6 @@ trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.12.41:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇸🇬```
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷```
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#🇩🇪```
-vless://8137e9a6-22e6-4707-a120-a6dea17c7e00@www.speedtest.net:2086?path=%2FeyJqdW5rIjoic1VBWDhGMXJsREg5WUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI4My4xNDcuMjU0LjI0NSJdfQ%3D%3D%3Fed%3D2560&security=none&encryption=none&host=dry-snow-2e6f.fastip25478.workers.dev&type=ws#canfingV2rayNG-164`
 vless://7f88d52b-796a-4234-b8cb-71576978c890@www.speedtest.net:80?encryption=none&host=ratAn05-srBey720-v2.raTan-05.woRkeRs.deV&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app`
 vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:2082?encryption=none&security=none&type=ws&path=/ws&host=sub.vicdn.dev#cf-ws-2082`
 vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:8080?encryption=none&security=none&type=ws&path=/ws&host=sub.vicdn.dev#cf-ws-8080`
