@@ -1,8 +1,6 @@
 # Telegram channels to collect configs from
 # One channel per line, with or without @ prefix
 @freev2ray
-@proxy_channel
-@config_collector
 @proxyhive
 @vpnfail_v2ray
 @outlineOpenKey
@@ -12,4 +10,5 @@
 @proxyhive
 @AbdalV2rayBot
 @V2RayRootFree
-@igareq
+@VPN_Bot_Free
+@FreeV2raybot
