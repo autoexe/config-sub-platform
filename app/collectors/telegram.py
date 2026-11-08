@@ -29,7 +29,7 @@ async def collect_from_telegram(
         return []
 
     messages: list[str] = []
-    async with TelegramClient(session, api_id, api_hash) as client:
+    async with TelegramClient(StringSession(os.environ.get('TG_SESSION')), api_id, api_hash) as client:
         for channel in channels:
             try:
                 entity = await client.get_entity(channel)
