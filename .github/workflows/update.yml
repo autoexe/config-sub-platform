@@ -25,6 +25,7 @@ jobs:
 
       - name: Run pipeline
         env:
+          TG_SESSION: ${{ secrets.TG_SESSION }}
           TG_API_ID: ${{ secrets.TG_API_ID }}
           TG_API_HASH: ${{ secrets.TG_API_HASH }}
         run: python main.py
