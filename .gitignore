@@ -11,7 +11,7 @@ coverage
 
 # Project specific
 generated/*
-!generated/.gitkeep
+generated/.gitkeep
 cache/*
 !cache/.gitkeep
 config/*.local.*
