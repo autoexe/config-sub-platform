@@ -6,3 +6,6 @@
 @proxyhive
 @vpnfail_v2ray
 @outlineOpenKey
+@igareq
+@V2RayRootFree
+@VlessForU
