@@ -3,3 +3,6 @@
 @freev2ray
 @proxy_channel
 @config_collector
+@proxyhive
+@vpnfail_v2ray
+@outlineOpenKey
