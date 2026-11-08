@@ -2,7 +2,7 @@ from __future__ import annotations
 import logging
 import os
 from typing import Optional
-
+from telethon.sessions import StringSession
 from telethon import TelegramClient
 from telethon.errors import FloodWaitError
 
