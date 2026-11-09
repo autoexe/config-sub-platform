@@ -42,4 +42,3 @@ vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:8080?encryption=none&
 trojan://gHQP0D7D15@172.66.0.1:2053?type=ws&sni=marvdasht.phonecomparisonblog.org&alpn=http/1.1#4050`
 vless://c4940726-7300-46f8-a8ce-925c2b2d6612@buydomains.com:8080?encryption=none&host=qgJdrswc-8hh1pa.qgjdRswc.woRkers.deV&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app`
 trojan://gHQP0D7D15@172.67.118.45:2053?type=ws&sni=marvdasht.phonecomparisonblog.org#1948`
-vless://17791d81-b0b8-4504-a408-ce33fb1838e3@Home.bazicore.ir:8080?encryption=mlkem768x25519plus.native.0rtt.xapoTANho1v2n2ySBEc7jmHBwRLOpF2PF47wL-1H8ho&security=none&type=xhttp&mode=auto&host=Home.bazicore.ir&path=%2F#filembad-74`
